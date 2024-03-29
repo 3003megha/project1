@@ -5,8 +5,8 @@ FROM node:14
 ENV NEW_RELIC_NO_CONFIG_FILE=true \
     NEW_RELIC_ENABLED=true \
     NEW_RELIC_LOG_LEVEL=info \
-    NEW_RELIC_LICENSE_KEY=your_license_key \
-    NEW_RELIC_APP_NAME="Your Application Name" \
+    NEW_RELIC_LICENSE_KEY=4e37d15ac80228f0ff82c3f660423920FFFFNRAL \
+    NEW_RELIC_APP_NAME="User" \
     NEW_RELIC_DISTRIBUTED_TRACING_ENABLED=true
 
 # Install New Relic agent
