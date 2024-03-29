@@ -8,8 +8,8 @@ ENV INSTANA_AUTO_PROFILE true
 ENV NEW_RELIC_NO_CONFIG_FILE=true \
     NEW_RELIC_ENABLED=true \
     NEW_RELIC_LOG_LEVEL=info \
-    NEW_RELIC_LICENSE_KEY=your_license_key \
-    NEW_RELIC_APP_NAME="Your Application Name" \
+    NEW_RELIC_LICENSE_KEY=78906c4da216ba24690fce6a95b1cbe0FFFFNRAL \
+    NEW_RELIC_APP_NAME="Catalogue" \
     NEW_RELIC_DISTRIBUTED_TRACING_ENABLED=true
 
 # Set working directory
